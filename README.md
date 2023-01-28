@@ -1,2 +1,2 @@
 # trainingTimePrediction
-the dataset to predict training time 
+the dataset to predict kernel time 
